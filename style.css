@@ -38,7 +38,7 @@ section{
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 53px;
     margin-bottom: 27px;
 }
 
@@ -80,3 +80,34 @@ p {
 
 }
 
+.wrapper {
+    display: flex;
+}
+
+.web-developer-full {
+    width: 50%;
+    margin: 50px;
+    box-shadow: 10px 8px 24px 10px grey;
+    padding-left: 15px;
+    padding: 70px;
+    border-radius: 10px;
+}
+
+.baby-web-developer {
+    width: 50%;
+    margin: 50px;
+    box-shadow: 10px 10px 18px 15px grey;
+    padding-left: 18px;
+    padding: 70px;
+}
+
+p.footer-s {
+    width: 100%;
+    text-align: center;
+}
+
+.web-developer-full {
+    border-left: 7px solid;
+    border-image: linear-gradiant(blue,red);
+    border-image-slice: 1;
+}

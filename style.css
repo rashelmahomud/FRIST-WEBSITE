@@ -3,6 +3,9 @@
     padding: 0;
 
 }
+section{
+    margin-bottom: 100px;
+}
 
 #frist-container{
     background-image: url(images/top-banner.png);
@@ -18,6 +21,13 @@
     padding: 88px;
 }
 
+.new-color{
+    color: rgb(219, 80, 16);
+}
+
+.color-font{
+    color: rgb(238, 223, 10);
+}
 .right-image{
     width: 50%;
     text-align: center;
@@ -48,5 +58,25 @@ a {
 
 p {
     margin-bottom: 25px;
+}
+
+
+.images-left {
+    width: 100%;
+    text-align: center;
+}
+.images-left img {
+    width: 80%;
+}
+
+.Dream-big {
+    padding: 120px;
+}
+
+#SECONT-SECTION{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+   background-position: right;
+
 }
 

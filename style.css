@@ -111,3 +111,8 @@ p.footer-s {
     border-image: linear-gradiant(blue,red);
     border-image-slice: 1;
 }
+.web-developer{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}

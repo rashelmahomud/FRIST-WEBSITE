@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#frist-container{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.frist-section{
+    display: flex;
+}
+
+.left-work{
+    width: 50%;
+    padding: 88px;
+}
+
+.right-image{
+    width: 50%;
+    text-align: center;
+}
+.right-image img{
+    width: 70%;
+    
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 27px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    background: linear-gradient(#9fdb2b, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+p {
+    margin-bottom: 25px;
+}
+
